@@ -7,9 +7,9 @@
 
 -------------------------------------------------------------------------------------------
 
-USE store;
+USE sql_store;
 
-*doing exercises from store database*
+*doing exercises from the 'store' database*
 
 ----------
 
